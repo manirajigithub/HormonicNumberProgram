@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\HormonicNumber\HormonicNumber\obj\Debug\net6.0\HormonicNumber.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\HormonicNumber\HormonicNumber\obj\Debug\net6.0\HormonicNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\HormonicNumber\HormonicNumber\obj\Debug\net6.0\HormonicNumber.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\HormonicNumber\HormonicNumber\obj\Debug\net6.0\HormonicNumber.AssemblyInfo.cs
+C:\Users\mani1\source\repos\HormonicNumber\HormonicNumber\obj\Debug\net6.0\HormonicNumber.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\HormonicNumber\HormonicNumber\bin\Debug\net6.0\HormonicNumber.exe
+C:\Users\mani1\source\repos\HormonicNumber\HormonicNumber\bin\Debug\net6.0\HormonicNumber.deps.json
+C:\Users\mani1\source\repos\HormonicNumber\HormonicNumber\bin\Debug\net6.0\HormonicNumber.runtimeconfig.json
+C:\Users\mani1\source\repos\HormonicNumber\HormonicNumber\bin\Debug\net6.0\HormonicNumber.dll
+C:\Users\mani1\source\repos\HormonicNumber\HormonicNumber\bin\Debug\net6.0\HormonicNumber.pdb
+C:\Users\mani1\source\repos\HormonicNumber\HormonicNumber\obj\Debug\net6.0\HormonicNumber.dll
+C:\Users\mani1\source\repos\HormonicNumber\HormonicNumber\obj\Debug\net6.0\refint\HormonicNumber.dll
+C:\Users\mani1\source\repos\HormonicNumber\HormonicNumber\obj\Debug\net6.0\HormonicNumber.pdb
+C:\Users\mani1\source\repos\HormonicNumber\HormonicNumber\obj\Debug\net6.0\HormonicNumber.genruntimeconfig.cache
+C:\Users\mani1\source\repos\HormonicNumber\HormonicNumber\obj\Debug\net6.0\ref\HormonicNumber.dll
